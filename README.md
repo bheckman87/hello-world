@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just a sample repository
+Hey, this is a readme file.
